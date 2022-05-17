@@ -1,0 +1,111 @@
+
+.bg{
+    border: 10px groove yellowgreen;
+    height: 98%;
+    width: 98%;
+    background-color: rgb(148, 148, 178);
+    background-size: cover;
+
+}
+
+.container{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.box1{
+    background-color: black;
+    color: aliceblue;
+    border: solid red 3px;
+    border-radius: 30px;
+    font-style: italic;
+    height: 15vh;
+    width: 28%;
+    padding: 20px;
+    margin: 30px;
+}
+.box2{
+    background-color: black;
+    color: aliceblue;
+    border: solid red 3px;
+    border-radius: 30px;
+    font-style: italic;
+    height: 9vh;
+    width: 55%;
+    padding: 20px;
+    margin left: -230px;
+    padding-top: 15px;
+    text-align: :right;
+
+
+}
+.box3{
+    background-color: black;
+    color: aliceblue;
+    border: solid red 3px;
+    border-radius: 30px;
+    font-style: italic;
+    height: 20vh;
+    width: 25%;
+    padding: 20px;
+    margin: 10px;
+}
+.containercr{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 60px;
+}
+.circle{
+    background-color: rgb(45, 146, 29);
+    border: grey solid 8px;
+    border-radius: 50%;
+    text-decoration: underline;
+    padding-inline: 20px;
+    padding-top: 5%;
+    text-align: center;
+    width: 350px;
+    height: 290px;
+    margin-top: 100px;
+
+
+}
+.form{
+    background-color: white;
+    color: red;
+    border: dashed 5px red;
+    text-align: center;
+}
+.menu{
+    background-color: rgb(16, 16, 16);
+    border: solid 3px red;
+    color: white;
+    width: 35%;
+    height: 6vh;
+    text-align: center;
+    padding: 20px;
+    border-radius: 30px;
+    font-style: italic;
+    padding-top: 15px;
+    margin-left: 400px;
+
+}
+.sticky{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    text-justify: inherit;
+}
+.chart{
+    background-color: aqua;
+    color: blue;
+    width: 26%;
+    border: solid 4px green;
+    border-radius: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin: 30px;
+    text-align: center;
+    hr: width 99%;
+}
